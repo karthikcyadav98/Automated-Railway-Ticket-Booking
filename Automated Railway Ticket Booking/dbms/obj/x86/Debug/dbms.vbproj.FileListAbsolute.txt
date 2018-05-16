@@ -1,0 +1,19 @@
+c:\users\karthik\documents\visual studio 2010\Projects\dbms\dbms\obj\x86\Debug\dbms.Resources.resources
+c:\users\karthik\documents\visual studio 2010\Projects\dbms\dbms\obj\x86\Debug\dbms.vbproj.GenerateResource.Cache
+c:\users\karthik\documents\visual studio 2010\Projects\dbms\dbms\bin\Debug\dbms.exe
+c:\users\karthik\documents\visual studio 2010\Projects\dbms\dbms\bin\Debug\dbms.pdb
+c:\users\karthik\documents\visual studio 2010\Projects\dbms\dbms\bin\Debug\dbms.xml
+c:\users\karthik\documents\visual studio 2010\Projects\dbms\dbms\obj\x86\Debug\dbms.exe
+c:\users\karthik\documents\visual studio 2010\Projects\dbms\dbms\obj\x86\Debug\dbms.xml
+c:\users\karthik\documents\visual studio 2010\Projects\dbms\dbms\obj\x86\Debug\dbms.pdb
+C:\Users\Karthik\documents\visual studio 2010\Projects\dbms\dbms\obj\x86\Debug\dbms.login.resources
+C:\Users\Karthik\documents\visual studio 2010\Projects\dbms\dbms\obj\x86\Debug\dbms._1.resources
+C:\Users\Karthik\documents\visual studio 2010\Projects\dbms\dbms\obj\x86\Debug\dbms.TRAIN.resources
+C:\Users\Karthik\documents\visual studio 2010\Projects\dbms\dbms\obj\x86\Debug\dbms.ROUTE.resources
+C:\Users\Karthik\documents\visual studio 2010\Projects\dbms\dbms\obj\x86\Debug\dbms.RESERVATION.resources
+C:\Users\Karthik\documents\visual studio 2010\Projects\dbms\dbms\obj\x86\Debug\dbms.LoginForm1.resources
+C:\Users\Karthik\documents\visual studio 2010\Projects\dbms\dbms\obj\x86\Debug\dbms.SIGNUP.resources
+C:\Users\Karthik\documents\visual studio 2010\Projects\dbms\dbms\obj\x86\Debug\dbms.booking.resources
+C:\Users\Karthik\Desktop\dbms\dbms\obj\x86\Debug\dbms.exe
+C:\Users\Karthik\Desktop\dbms\dbms\obj\x86\Debug\dbms.xml
+C:\Users\Karthik\Desktop\dbms\dbms\obj\x86\Debug\dbms.pdb
